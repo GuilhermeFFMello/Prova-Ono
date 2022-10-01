@@ -43,7 +43,7 @@ textoteste1.innerText ='Nome: Guilherme Franco de Faria Mello\n\n' +
 'Ra: 160002352\n\n' +
 'Universidade: UNISAL - Unidade Campinas - São José\n\n' +
 'Curso: Análise e Desenvolvimento de Sistemas\n\n' +
-'Matéria : Desenvolvimento para Dispositivo móvel,WEB e GAME\n\n' +
+'Matéria: Desenvolvimento para Dispositivo móvel,WEB e GAME\n\n' +
 'Professor: Eduardo Ono\n\n' +
 'Email: Mellogui94@gmail.com\n\n' +
 'Telefone: (19) 993625214\n\n' +
