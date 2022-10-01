@@ -59,6 +59,7 @@ siteIcone.classList.add('siteIcone');
 siteIcone.setAttribute('href' , '#');
 siteIcone.setAttribute('title' , 'Home');
 headerLeft.appendChild(siteIcone);
+siteIcone.addEventListener('click',toggle1);
 
 const logo = document.createElement('img')
 logo.classList.add('logo');
