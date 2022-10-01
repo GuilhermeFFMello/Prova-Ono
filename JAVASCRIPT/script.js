@@ -163,7 +163,7 @@ textoteste2.innerText ='Seja bem vindo ao meu site.\n Gerador de mensagens em In
  textoteste2.classList.add('teste');
 
 const titulo = document.createElement('h1');
-titulo.innerHTML = 'Frases em Ingles';
+titulo.innerHTML = 'Frases em Inglês';
 formGroup.appendChild(titulo);
 titulo.classList.add('teste');
 
